@@ -8,4 +8,4 @@ Run the script using the following command:
 ```bash 
   sudo chmod +x push_to_docker_hub.sh && ./push_to_docker_hub.sh
 ```
-Customize it the way you like.
+You are free to Customize it the way you want.
